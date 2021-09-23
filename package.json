@@ -1,0 +1,28 @@
+{
+  "name": "audiobuddy",
+  "version": "1.0.0",
+  "description": "An application to manage audio and convert text to speech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myketheguru/audiobuddy.git"
+  },
+  "keywords": [
+    "audio",
+    "pdf",
+    "translator",
+    "converter",
+    "music",
+    "education",
+    "learn"
+  ],
+  "author": "Micheal Eze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myketheguru/audiobuddy/issues"
+  },
+  "homepage": "https://github.com/myketheguru/audiobuddy#readme"
+}
